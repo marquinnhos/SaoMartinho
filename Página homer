@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página inicial</title>
+    
+  <link rel="stylesheet" href="CSS/Meu_Estilo.css">
+   
+</head>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"/> 
+
+<body>
+
+    <nav>
+        <ul>
+         <li><a href="https://saomartinho.org.br/" class="titulo-blog">São martinho Social</a></li>
+         <li><a href="Index.html">Home</a></li>
+         <li><a href="AprendizPag.html">Jovem aprendiz</a></li>
+         <li><a href="Formulario.html">Informes</a></li>
+         <li><a href="#">Plataforma</a></li>
+        </ul>
+       </nav> <br>
+   
+       <h1 class="apresentacao">Apresentação:</h1> <br> <br>
+       Criada há 38 anos por um grupo de voluntários sensibilizado com a situação degradante de milhares de crianças e jovens, 
+       especialmente daquelas que viviam nas ruas da cidade do Rio de Janeiro, a São Martinho buscou ao longo dos anos empenhar esforços para a melhoria de suas estratégias e metodologia de atuação. <br> <br>
+        Em 2015, com a consultoria do Instituto Ekloos, o modelo de atendimento da São Martinho foi reestruturado em cinco eixos de atuação integrados e centrados nos beneficiários, 
+        gerando impactos mais significativos e permanentes na vida de crianças, jovens e famílias atendidas.
+        Acreditamos no desenvolvimento integral de crianças e jovens como potência para a construção de uma sociedade mais justa, respeitosa, igualitária e acolhedora para todos. <br> <br>
+        <p> Associação Beneficente São Martinho faz parte da Rede de Assistência Carmelitana, uma rede de serviços de atendimento a população vulnerável presente em diversos pontos do país.</p> <br>
+
+
+      <h2 class="proposito">Proposito:</h2> <br> <br>
+
+      Este site tem o propósito direto de auxiliar os jovens com retirada de dúvidas, inscrições e informações. Todos referentes  aos assuntos referentes a Aprendizagem do Instituto.
+
+
+
+</body>
+</html>
